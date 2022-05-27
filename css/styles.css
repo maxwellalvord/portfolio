@@ -31,7 +31,7 @@ body {
   padding: 1rem;
   position: relative;
   background: linear-gradient(to right, red, purple);
-  padding: 3px;
+  padding: 5px;
 }
 
 .pro {
@@ -39,8 +39,14 @@ body {
   color: white;
   padding: 2rem;
 }
- .about-me P {
-   float: left;
+ 
+.about-me {
+  padding-top: 10px;
+}
+
+.about-me P {
+  padding-top: 10px; 
+  float: left;
    width: 300px;
  }
 
