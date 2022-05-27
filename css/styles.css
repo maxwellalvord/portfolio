@@ -21,6 +21,7 @@
 
 body {
   height: 100%;
+  width: 90%;
   margin: 0;
   display: grid;
   place-items: center;
@@ -82,4 +83,8 @@ body {
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
+}
+
+mark {
+  background: rebeccapurple;
 }
