@@ -11,7 +11,7 @@ A simple html page to house github repo links.
 
 ## Description
 
-This page will simply house links and provide personal information on the creator, to use application just click on the desired github project repo you wish to visit.
+This page will simply house links and provide personal information on the creator, to use application just click on the desired github project repo you wish to visit. Due to additional project time many extras are located at the bottom for you to play around with if you would like.
 
 ## Setup/Installation Requirements
 
