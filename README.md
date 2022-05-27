@@ -20,7 +20,7 @@ This page will simply house links and provide personal information on the creato
 * Open index.html
 
 ### Alternative Setup
-* Visit the [gh-pages](maxwell-alvord.github.io/portfolio)
+* Visit the [gh-pages](https://maxwellalvord.github.io/portfolio/)
 
 ## Known Bugs
 * If more than 234 characters are added to the editable text window sizing will shrink to fit text rather than a new line.
