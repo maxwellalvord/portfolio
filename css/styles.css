@@ -1,3 +1,41 @@
 .highlight {
   color: green;
 }
+
+.personinfo img {
+  border: 2px solid green;
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+  box-sizing: border-box;
+}
+
+.personinfo h1 {
+  text-align: center;
+}
+
+.personinfo h5 {
+  text-align: center;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(to top, );
+}
+.projects {
+  max-width: 80%;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, red, purple);
+  padding: 3px;
+}
+
+.pro {
+  background: #222;
+  color: white;
+  padding: 2rem;
+}
