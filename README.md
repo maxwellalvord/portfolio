@@ -1,4 +1,4 @@
-# Portfolio
+# Programming Portfolio
 By Maxwell Alvord
 
 A simple html page to house github repo links.
@@ -23,7 +23,7 @@ This page will simply house links and provide personal information on the creato
 * Visit the [gh-pages](maxwell-alvord.github.io/portfolio)
 
 ## Known Bugs
-* 
+* Favorite flavor of potato chips title lower then About me title.
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
