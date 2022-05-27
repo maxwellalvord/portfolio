@@ -23,8 +23,8 @@ This page will simply house links and provide personal information on the creato
 * Visit the [gh-pages](maxwell-alvord.github.io/portfolio)
 
 ## Known Bugs
-* Favorite flavor of potato chips title lower then About Me title.
 * If more than 234 characters are added to the editable text window sizing will shrink to fit text rather than a new line.
+* Opening the interactive widget gitches mood board positioning.
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
