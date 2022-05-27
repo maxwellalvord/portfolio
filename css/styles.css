@@ -20,11 +20,11 @@
 }
 
 body {
-  height: 100vh;
+  height: 100%;
   margin: 0;
   display: grid;
   place-items: center;
-  background: linear-gradient(to top, );
+  background: linear-gradient(to top, green, blue);
 }
 .projects {
   max-width: 80%;
