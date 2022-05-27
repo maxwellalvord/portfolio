@@ -39,3 +39,16 @@ body {
   color: white;
   padding: 2rem;
 }
+ .about-me P {
+   float: left;
+   width: 300px;
+ }
+
+ .chip {
+   float: right;
+ }
+
+ .bgr {
+   text-align: center;
+   width: 800px;
+ }
